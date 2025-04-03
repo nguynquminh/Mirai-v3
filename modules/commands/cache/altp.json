@@ -1,0 +1,2132 @@
+[
+    {
+        "question": "Thủ đô của Việt Nam là gì?",
+        "options": [
+            "A. Hà Nội",
+            "B. TP. Hồ Chí Minh",
+            "C. Đà Nẵng",
+            "D. Hải Phòng"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là tác giả của tác phẩm 'Truyện Kiều'?",
+        "options": [
+            "A. Nguyễn Trãi",
+            "B. Nguyễn Du",
+            "C. Hồ Xuân Hương",
+            "D. Nam Cao"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hành tinh lớn nhất trong hệ Mặt Trời là gì?",
+        "options": [
+            "A. Trái Đất",
+            "B. Sao Hỏa",
+            "C. Sao Mộc",
+            "D. Sao Thổ"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ngày Quốc khánh Việt Nam là ngày nào?",
+        "options": [
+            "A. 2 tháng 9",
+            "B. 30 tháng 4",
+            "C. 10 tháng 3",
+            "D. 1 tháng 5"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài động vật nào là biểu tượng của nước Úc?",
+        "options": [
+            "A. Kangaroo",
+            "B. Gấu túi Koala",
+            "C. Chim cánh cụt",
+            "D. Sư tử"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ngọn núi cao nhất Việt Nam là gì?",
+        "options": [
+            "A. Fansipan",
+            "B. Bà Đen",
+            "C. Ngọc Linh",
+            "D. Bạch Mã"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là vị vua đầu tiên của triều Nguyễn?",
+        "options": [
+            "A. Gia Long",
+            "B. Minh Mạng",
+            "C. Bảo Đại",
+            "D. Hàm Nghi"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Nước nào có diện tích lớn nhất thế giới?",
+        "options": [
+            "A. Canada",
+            "B. Nga",
+            "C. Trung Quốc",
+            "D. Hoa Kỳ"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tác phẩm 'Đất nước' là của nhà thơ nào?",
+        "options": [
+            "A. Xuân Diệu",
+            "B. Hàn Mặc Tử",
+            "C. Nguyễn Khoa Điềm",
+            "D. Chế Lan Viên"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Hồ lớn nhất Việt Nam là gì?",
+        "options": [
+            "A. Hồ Gươm",
+            "B. Hồ Ba Bể",
+            "C. Hồ Tây",
+            "D. Hồ Thác Bà"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Mặt Trời mọc ở hướng nào?",
+        "options": [
+            "A. Đông",
+            "B. Tây",
+            "C. Nam",
+            "D. Bắc"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là người phát minh ra bóng đèn sợi đốt?",
+        "options": [
+            "A. Thomas Edison",
+            "B. Nikola Tesla",
+            "C. Albert Einstein",
+            "D. Alexander Bell"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Thành phố nào được gọi là 'Thành phố ngàn hoa'?",
+        "options": [
+            "A. Huế",
+            "B. Đà Lạt",
+            "C. Nha Trang",
+            "D. Sapa"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Nguyên tố hóa học nào có ký hiệu là 'O'?",
+        "options": [
+            "A. Vàng",
+            "B. Oxy",
+            "C. Sắt",
+            "D. Đồng"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là tổng thống đầu tiên của Hoa Kỳ?",
+        "options": [
+            "A. Abraham Lincoln",
+            "B. George Washington",
+            "C. Thomas Jefferson",
+            "D. John Adams"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Sông dài nhất thế giới là gì?",
+        "options": [
+            "A. Sông Amazon",
+            "B. Sông Nile",
+            "C. Sông Trường Giang",
+            "D. Sông Mississippi"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Bộ phim 'Ký sinh trùng' đoạt giải Oscar là của quốc gia nào?",
+        "options": [
+            "A. Nhật Bản",
+            "B. Hàn Quốc",
+            "C. Trung Quốc",
+            "D. Thái Lan"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hành tinh nào gần Mặt Trời nhất?",
+        "options": [
+            "A. Sao Thủy",
+            "B. Sao Kim",
+            "C. Trái Đất",
+            "D. Sao Hỏa"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là người sáng lập ra Facebook?",
+        "options": [
+            "A. Bill Gates",
+            "B. Mark Zuckerberg",
+            "C. Elon Musk",
+            "D. Steve Jobs"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thể loại âm nhạc nào gắn liền với ca sĩ Elvis Presley?",
+        "options": [
+            "A. Pop",
+            "B. Rock and Roll",
+            "C. Jazz",
+            "D. Classical"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Việt Nam có bao nhiêu tỉnh thành tính đến năm 2023?",
+        "options": [
+            "A. 62",
+            "B. 63",
+            "C. 64",
+            "D. 65"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà văn viết 'Lão Hạc'?",
+        "options": [
+            "A. Nam Cao",
+            "B. Ngô Tất Tố",
+            "C. Vũ Trọng Phụng",
+            "D. Nguyễn Công Hoan"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Kim tự tháp Giza nằm ở quốc gia nào?",
+        "options": [
+            "A. Ai Cập",
+            "B. Mexico",
+            "C. Ấn Độ",
+            "D. Peru"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài chim nào không biết bay?",
+        "options": [
+            "A. Đại bàng",
+            "B. Chim cánh cụt",
+            "C. Chim sẻ",
+            "D. Chim ưng"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là cầu thủ giành Quả bóng Vàng 2022?",
+        "options": [
+            "A. Lionel Messi",
+            "B. Cristiano Ronaldo",
+            "C. Karim Benzema",
+            "D. Neymar"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Thành phố nào là thủ đô của Nhật Bản?",
+        "options": [
+            "A. Osaka",
+            "B. Kyoto",
+            "C. Tokyo",
+            "D. Hiroshima"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nguyên tố nào là thành phần chính của nước?",
+        "options": [
+            "A. Carbon",
+            "B. Hydro",
+            "C. Nitơ",
+            "D. Lưu huỳnh"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là người vẽ bức tranh 'Mona Lisa'?",
+        "options": [
+            "A. Vincent van Gogh",
+            "B. Pablo Picasso",
+            "C. Leonardo da Vinci",
+            "D. Michelangelo"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Quốc gia nào tổ chức Thế vận hội mùa hè 2020?",
+        "options": [
+            "A. Brazil",
+            "B. Nhật Bản",
+            "C. Pháp",
+            "D. Hoa Kỳ"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại tiền tệ chính thức tại Việt Nam là gì?",
+        "options": [
+            "A. Yên",
+            "B. Đồng",
+            "C. Won",
+            "D. Baht"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là tác giả của 'Tuyên ngôn Độc lập' Việt Nam năm 1945?",
+        "options": [
+            "A. Hồ Chí Minh",
+            "B. Phạm Văn Đồng",
+            "C. Võ Nguyên Giáp",
+            "D. Trần Phú"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài hoa nào là biểu tượng của ngày Tết ở Việt Nam?",
+        "options": [
+            "A. Hoa hồng",
+            "B. Hoa mai",
+            "C. Hoa cúc",
+            "D. Hoa lan"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thành phố nào được gọi là 'Vương quốc của những chiếc xe đạp'?",
+        "options": [
+            "A. Amsterdam",
+            "B. Paris",
+            "C. New York",
+            "D. Bangkok"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là người phát minh ra điện thoại?",
+        "options": [
+            "A. Thomas Edison",
+            "B. Alexander Graham Bell",
+            "C. Nikola Tesla",
+            "D. Guglielmo Marconi"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào có hình dạng giống một chiếc giày trên bản đồ?",
+        "options": [
+            "A. Ý",
+            "B. Pháp",
+            "C. Tây Ban Nha",
+            "D. Hy Lạp"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của đại dương nhỏ nhất thế giới là gì?",
+        "options": [
+            "A. Đại Tây Dương",
+            "B. Thái Bình Dương",
+            "C. Ấn Độ Dương",
+            "D. Bắc Băng Dương"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Ai là nhà khoa học phát hiện ra lực hấp dẫn?",
+        "options": [
+            "A. Albert Einstein",
+            "B. Isaac Newton",
+            "C. Galileo Galilei",
+            "D. Stephen Hawking"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Món ăn 'phở' là đặc sản của quốc gia nào?",
+        "options": [
+            "A. Thái Lan",
+            "B. Việt Nam",
+            "C. Nhật Bản",
+            "D. Trung Quốc"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thành phố nào là thủ đô của Brazil?",
+        "options": [
+            "A. Rio de Janeiro",
+            "B. São Paulo",
+            "C. Brasília",
+            "D. Salvador"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Loài cá nào được gọi là 'vua của đại dương'?",
+        "options": [
+            "A. Cá mập",
+            "B. Cá voi",
+            "C. Cá heo",
+            "D. Cá ngừ"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tác phẩm 'Chiến tranh và Hòa bình' là của nhà văn nào?",
+        "options": [
+            "A. Fyodor Dostoevsky",
+            "B. Leo Tolstoy",
+            "C. Anton Chekhov",
+            "D. Vladimir Nabokov"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài cây nào được dùng để sản xuất sô-cô-la?",
+        "options": [
+            "A. Cây cà phê",
+            "B. Cây ca cao",
+            "C. Cây chè",
+            "D. Cây mía"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là người đầu tiên bay vào vũ trụ?",
+        "options": [
+            "A. Neil Armstrong",
+            "B. Yuri Gagarin",
+            "C. Buzz Aldrin",
+            "D. John Glenn"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Món sushi truyền thống bắt nguồn từ quốc gia nào?",
+        "options": [
+            "A. Trung Quốc",
+            "B. Hàn Quốc",
+            "C. Nhật Bản",
+            "D. Thái Lan"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Tên của vị thần sấm sét trong thần thoại Hy Lạp là gì?",
+        "options": [
+            "A. Zeus",
+            "B. Poseidon",
+            "C. Hades",
+            "D. Apollo"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là vận động viên bơi lội giành nhiều huy chương Olympic nhất?",
+        "options": [
+            "A. Michael Phelps",
+            "B. Mark Spitz",
+            "C. Ian Thorpe",
+            "D. Ryan Lochte"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài động vật nào có tuổi thọ dài nhất trong tự nhiên?",
+        "options": [
+            "A. Voi",
+            "B. Rùa biển",
+            "C. Cá voi",
+            "D. Chim đại bàng"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Công cụ tìm kiếm nào phổ biến nhất thế giới hiện nay?",
+        "options": [
+            "A. Bing",
+            "B. Yahoo",
+            "C. Google",
+            "D. Baidu"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Tên của nhà soạn nhạc nổi tiếng với bản 'Symphony No. 9' là ai?",
+        "options": [
+            "A. Wolfgang Amadeus Mozart",
+            "B. Ludwig van Beethoven",
+            "C. Johann Sebastian Bach",
+            "D. Franz Schubert"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào là quê hương của lễ hội Oktoberfest?",
+        "options": [
+            "A. Áo",
+            "B. Đức",
+            "C. Thụy Sĩ",
+            "D. Hà Lan"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hành tinh nào có vành đai nổi bật nhất trong hệ Mặt Trời?",
+        "options": [
+            "A. Sao Mộc",
+            "B. Sao Thổ",
+            "C. Sao Thiên Vương",
+            "D. Sao Hải Vương"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là đạo diễn của bộ phim 'Titanic' năm 1997?",
+        "options": [
+            "A. Steven Spielberg",
+            "B. James Cameron",
+            "C. Christopher Nolan",
+            "D. Martin Scorsese"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài hoa nào tượng trưng cho tình yêu trong văn hóa phương Tây?",
+        "options": [
+            "A. Hoa cúc",
+            "B. Hoa hồng",
+            "C. Hoa tulip",
+            "D. Hoa lan"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của kim loại quý hiếm nhất trên Trái Đất là gì?",
+        "options": [
+            "A. Vàng",
+            "B. Bạc",
+            "C. Rhodium",
+            "D. Bạch kim"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ai là người sáng tạo ra lý thuyết tiến hóa bằng chọn lọc tự nhiên?",
+        "options": [
+            "A. Charles Darwin",
+            "B. Gregor Mendel",
+            "C. Louis Pasteur",
+            "D. Alfred Wallace"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Thành phố nào là nơi đặt trụ sở Liên Hợp Quốc?",
+        "options": [
+            "A. Geneva",
+            "B. New York",
+            "C. Paris",
+            "D. London"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại đá quý màu xanh lam đậm là gì?",
+        "options": [
+            "A. Ngọc bích",
+            "B. Sapphire",
+            "C. Ruby",
+            "D. Topaz"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà văn viết truyện ngắn 'The Gift of the Magi'?",
+        "options": [
+            "A. O. Henry",
+            "B. Mark Twain",
+            "C. Edgar Allan Poe",
+            "D. Ernest Hemingway"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài chim nào là biểu tượng của hòa bình?",
+        "options": [
+            "A. Chim bồ câu",
+            "B. Chim công",
+            "C. Chim én",
+            "D. Chim hồng hạc"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của nhà toán học phát minh ra phép tính vi phân là ai?",
+        "options": [
+            "A. Isaac Newton",
+            "B. Pythagoras",
+            "C. Euclid",
+            "D. Archimedes"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Quốc gia nào nổi tiếng với điệu múa Flamenco?",
+        "options": [
+            "A. Ý",
+            "B. Tây Ban Nha",
+            "C. Bồ Đào Nha",
+            "D. Pháp"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài động vật nào có khả năng thay đổi màu sắc để ngụy trang?",
+        "options": [
+            "A. Tắc kè",
+            "B. Rắn",
+            "C. Thỏ",
+            "D. Sói"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là người phát minh ra máy tính đầu tiên?",
+        "options": [
+            "A. Alan Turing",
+            "B. Charles Babbage",
+            "C. Bill Gates",
+            "D. Steve Wozniak"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thành phố nào được gọi là 'Thành phố ánh sáng'?",
+        "options": [
+            "A. New York",
+            "B. Paris",
+            "C. Tokyo",
+            "D. London"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại rượu vang nổi tiếng từ vùng Tuscany, Ý là gì?",
+        "options": [
+            "A. Bordeaux",
+            "B. Chianti",
+            "C. Champagne",
+            "D. Rioja"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà vật lý phát triển thuyết tương đối?",
+        "options": [
+            "A. Isaac Newton",
+            "B. Albert Einstein",
+            "C. Niels Bohr",
+            "D. Max Planck"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài cá nào có thể sống cả ở nước ngọt và nước mặn?",
+        "options": [
+            "A. Cá hồi",
+            "B. Cá chép",
+            "C. Cá rô",
+            "D. Cá basa"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của nhà thám hiểm tìm ra châu Mỹ năm 1492 là ai?",
+        "options": [
+            "A. Christopher Columbus",
+            "B. Marco Polo",
+            "C. Ferdinand Magellan",
+            "D. Vasco da Gama"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Quốc gia nào là quê hương của hãng xe Volvo?",
+        "options": [
+            "A. Đức",
+            "B. Thụy Điển",
+            "C. Nhật Bản",
+            "D. Ý"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài cây nào là biểu tượng của đất nước Canada?",
+        "options": [
+            "A. Cây phong",
+            "B. Cây sồi",
+            "C. Cây thông",
+            "D. Cây bạch dương"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là tác giả của vở kịch 'Romeo và Juliet'?",
+        "options": [
+            "A. William Shakespeare",
+            "B. George Bernard Shaw",
+            "C. Henrik Ibsen",
+            "D. Arthur Miller"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của hiện tượng thiên nhiên gây ra cầu vồng là gì?",
+        "options": [
+            "A. Phản xạ",
+            "B. Khúc xạ",
+            "C. Nhiễu xạ",
+            "D. Tán sắc"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Quốc gia nào tổ chức giải đua xe Công thức 1 đầu tiên?",
+        "options": [
+            "A. Ý",
+            "B. Anh",
+            "C. Pháp",
+            "D. Monaco"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là người sáng lập ra hãng phim Disney?",
+        "options": [
+            "A. Walt Disney",
+            "B. Steven Spielberg",
+            "C. George Lucas",
+            "D. Stan Lee"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài động vật nào là biểu tượng của hãng xe Lamborghini?",
+        "options": [
+            "A. Ngựa",
+            "B. Bò",
+            "C. Hổ",
+            "D. Sư tử"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của nhà khoa học phát hiện ra penicillin là ai?",
+        "options": [
+            "A. Louis Pasteur",
+            "B. Alexander Fleming",
+            "C. Jonas Salk",
+            "D. Robert Koch"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào nổi tiếng với Kim cương?",
+        "options": [
+            "A. Nam Phi",
+            "B. Brazil",
+            "C. Ấn Độ",
+            "D. Nga"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của loại nhạc cụ dây nổi tiếng trong nhạc cổ điển là gì?",
+        "options": [
+            "A. Violin",
+            "B. Trumpet",
+            "C. Flute",
+            "D. Piano"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là tổng thống Mỹ ký Đạo luật Giải phóng Nô lệ?",
+        "options": [
+            "A. George Washington",
+            "B. Abraham Lincoln",
+            "C. Thomas Jefferson",
+            "D. Franklin Roosevelt"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Nhà soạn nhạc nào nổi tiếng với bản giao hưởng 'Số 9'?",
+        "options": [
+            "A. Ludwig van Beethoven",
+            "B. Wolfgang Amadeus Mozart",
+            "C. Johann Sebastian Bach",
+            "D. Franz Schubert"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài cá nào được biết đến với khả năng phát điện?",
+        "options": [
+            "A. Cá mập",
+            "B. Cá voi",
+            "C. Cá chình điện",
+            "D. Cá ngừ"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ai là vị vua cuối cùng của Việt Nam?",
+        "options": [
+            "A. Bảo Đại",
+            "B. Hàm Nghi",
+            "C. Minh Mạng",
+            "D. Gia Long"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của hệ điều hành do Google phát triển là gì?",
+        "options": [
+            "A. iOS",
+            "B. Android",
+            "C. Windows",
+            "D. Linux"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài cây nào là nguyên liệu chính để sản xuất sô-cô-la?",
+        "options": [
+            "A. Cây cà phê",
+            "B. Cây ca cao",
+            "C. Cây chè",
+            "D. Cây mía"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là vận động viên giành nhiều huy chương vàng Olympic nhất?",
+        "options": [
+            "A. Michael Phelps",
+            "B. Usain Bolt",
+            "C. Carl Lewis",
+            "D. Simone Biles"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của món ăn truyền thống Hàn Quốc làm từ cải bắp lên men là gì?",
+        "options": [
+            "A. Sushi",
+            "B. Kimchi",
+            "C. Phở",
+            "D. Tempura"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là đạo diễn của bộ phim 'Titanic'?",
+        "options": [
+            "A. Steven Spielberg",
+            "B. James Cameron",
+            "C. Christopher Nolan",
+            "D. Quentin Tarantino"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thành phố nào được gọi là 'Thành phố vĩnh cửu'?",
+        "options": [
+            "A. Paris",
+            "B. Rome",
+            "C. Athens",
+            "D. Cairo"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài động vật nào là biểu tượng của đất nước Úc?",
+        "options": [
+            "A. Kangaroo",
+            "B. Gấu túi koala",
+            "C. Chim cánh cụt",
+            "D. Thỏ"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà văn viết tiểu thuyết 'Crime and Punishment'?",
+        "options": [
+            "A. Leo Tolstoy",
+            "B. Fyodor Dostoevsky",
+            "C. Anton Chekhov",
+            "D. Vladimir Nabokov"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của nguyên tố hóa học có ký hiệu 'Au' là gì?",
+        "options": [
+            "A. Bạc",
+            "B. Vàng",
+            "C. Đồng",
+            "D. Sắt"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào tổ chức lễ hội Oktoberfest nổi tiếng?",
+        "options": [
+            "A. Áo",
+            "B. Đức",
+            "C. Thụy Sĩ",
+            "D. Bỉ"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài chim nào được biết đến với điệu nhảy cầu kỳ để thu hút bạn tình?",
+        "options": [
+            "A. Chim công",
+            "B. Chim sẻ",
+            "C. Chim én",
+            "D. Chim bồ câu"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là người phát minh ra bóng đèn sợi đốt thực tế đầu tiên?",
+        "options": [
+            "A. Thomas Edison",
+            "B. Nikola Tesla",
+            "C. Humphry Davy",
+            "D. Benjamin Franklin"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của loại đá quý màu xanh lam nổi tiếng là gì?",
+        "options": [
+            "A. Ruby",
+            "B. Sapphire",
+            "C. Emerald",
+            "D. Topaz"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào là quê hương của nhà soạn nhạc Frédéric Chopin?",
+        "options": [
+            "A. Pháp",
+            "B. Ba Lan",
+            "C. Áo",
+            "D. Đức"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài động vật nào có thể thay đổi màu sắc để ngụy trang?",
+        "options": [
+            "A. Tắc kè",
+            "B. Rắn",
+            "C. Ếch",
+            "D. Thỏ"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là tổng thống đầu tiên của Hoa Kỳ?",
+        "options": [
+            "A. Abraham Lincoln",
+            "B. George Washington",
+            "C. Thomas Jefferson",
+            "D. John Adams"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại bánh ngọt nổi tiếng từ Pháp với lớp vỏ giòn là gì?",
+        "options": [
+            "A. Croissant",
+            "B. Baguette",
+            "C. Macaron",
+            "D. Éclair"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Quốc gia nào là nơi khởi nguồn của môn thể thao Judo?",
+        "options": [
+            "A. Trung Quốc",
+            "B. Nhật Bản",
+            "C. Hàn Quốc",
+            "D. Thái Lan"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài hoa nào là biểu tượng của đất nước Ấn Độ?",
+        "options": [
+            "A. Hoa sen",
+            "B. Hoa hồng",
+            "C. Hoa cúc",
+            "D. Hoa lan"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà khoa học phát hiện ra lực hấp dẫn?",
+        "options": [
+            "A. Albert Einstein",
+            "B. Isaac Newton",
+            "C. Galileo Galilei",
+            "D. Stephen Hawking"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại rượu mạnh truyền thống của Nga là gì?",
+        "options": [
+            "A. Whisky",
+            "B. Vodka",
+            "C. Tequila",
+            "D. Rum"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào là quê hương của nhà văn William Shakespeare?",
+        "options": [
+            "A. Anh",
+            "B. Pháp",
+            "C. Ý",
+            "D. Đức"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài động vật nào là biểu tượng của hãng rượu Johnnie Walker?",
+        "options": [
+            "A. Ngựa",
+            "B. Chó",
+            "C. Sư tử",
+            "D. Đại bàng"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là người sáng lập ra mạng xã hội Facebook?",
+        "options": [
+            "A. Elon Musk",
+            "B. Mark Zuckerberg",
+            "C. Jack Dorsey",
+            "D. Larry Page"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại nhạc cụ truyền thống Việt Nam có 16 dây là gì?",
+        "options": [
+            "A. Đàn bầu",
+            "B. Đàn tranh",
+            "C. Đàn nhị",
+            "D. Đàn nguyệt"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào là nơi tổ chức lễ hội Carnival nổi tiếng nhất?",
+        "options": [
+            "A. Brazil",
+            "B. Ý",
+            "C. Tây Ban Nha",
+            "D. Pháp"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài chim nào là biểu tượng của hòa bình?",
+        "options": [
+            "A. Chim bồ câu",
+            "B. Chim én",
+            "C. Chim sẻ",
+            "D. Chim ưng"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà văn viết tiểu thuyết 'One Hundred Years of Solitude'?",
+        "options": [
+            "A. Gabriel García Márquez",
+            "B. Mario Vargas Llosa",
+            "C. Isabel Allende",
+            "D. Julio Cortázar"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của hành tinh lớn nhất trong hệ Mặt Trời là gì?",
+        "options": [
+            "A. Sao Hỏa",
+            "B. Sao Mộc",
+            "C. Sao Thổ",
+            "D. Sao Kim"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào là quê hương của nhà toán học Pythagoras?",
+        "options": [
+            "A. Hy Lạp",
+            "B. Ai Cập",
+            "C. Ý",
+            "D. Ấn Độ"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Loài động vật nào là biểu tượng của hãng xe Rolls-Royce?",
+        "options": [
+            "A. Thiên nga",
+            "B. Đại bàng",
+            "C. Tượng Spirit of Ecstasy",
+            "D. Sư tử"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ai là người phát minh ra điện thoại?",
+        "options": [
+            "A. Thomas Edison",
+            "B. Alexander Graham Bell",
+            "C. Nikola Tesla",
+            "D. Guglielmo Marconi"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tên của loại trà nổi tiếng từ vùng Darjeeling, Ấn Độ là gì?",
+        "options": [
+            "A. Trà Earl Grey",
+            "B. Trà Darjeeling",
+            "C. Trà Assam",
+            "D. Trà Ceylon"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào là nơi tổ chức Thế vận hội mùa hè đầu tiên?",
+        "options": [
+            "A. Pháp",
+            "B. Hy Lạp",
+            "C. Anh",
+            "D. Mỹ"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài hoa nào là biểu tượng của đất nước Mexico?",
+        "options": [
+            "A. Hoa cẩm chướng",
+            "B. Hoa thược dược",
+            "C. Hoa hồng",
+            "D. Hoa lan"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà khoa học phát minh ra định luật bảo toàn năng lượng?",
+        "options": [
+            "A. James Joule",
+            "B. Michael Faraday",
+            "C. Albert Einstein",
+            "D. Isaac Newton"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tên của nhà văn viết 'The Great Gatsby' là ai?",
+        "options": [
+            "A. F. Scott Fitzgerald",
+            "B. Ernest Hemingway",
+            "C. John Steinbeck",
+            "D. William Faulkner"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là người đã phát minh ra thuyết tương đối?",
+        "options": [
+            "A. Isaac Newton",
+            "B. Galileo Galilei",
+            "C. Albert Einstein",
+            "D. Nikola Tesla"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nguyên tố nào nhẹ nhất trong bảng tuần hoàn?",
+        "options": [
+            "A. Helium",
+            "B. Hydrogen",
+            "C. Lithium",
+            "D. Beryllium"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Số nguyên tố lớn nhất nhỏ hơn 100 là bao nhiêu?",
+        "options": [
+            "A. 91",
+            "B. 93",
+            "C. 97",
+            "D. 99"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Người nào đã viết cuốn 'Chiến tranh và Hòa bình'?",
+        "options": [
+            "A. Fyodor Dostoevsky",
+            "B. Leo Tolstoy",
+            "C. Anton Chekhov",
+            "D. Vladimir Nabokov"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Mật độ của nước là bao nhiêu g/cm³ ở 4°C?",
+        "options": [
+            "A. 0.98",
+            "B. 1.00",
+            "C. 1.02",
+            "D. 1.10"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Lực nào giữ electron quay quanh hạt nhân nguyên tử?",
+        "options": [
+            "A. Lực hấp dẫn",
+            "B. Lực điện từ",
+            "C. Lực mạnh",
+            "D. Lực yếu"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Châu lục nào có diện tích lớn nhất?",
+        "options": [
+            "A. Châu Phi",
+            "B. Châu Âu",
+            "C. Châu Á",
+            "D. Châu Mỹ"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nhiệt độ thấp nhất có thể đạt được theo lý thuyết là bao nhiêu?",
+        "options": [
+            "A. -100°C",
+            "B. -173°C",
+            "C. -273.15°C",
+            "D. -300°C"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Số La Mã của số 2024 là gì?",
+        "options": [
+            "A. MMXXIV",
+            "B. MMXIV",
+            "C. MMXXII",
+            "D. MMXXIII"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là tác giả của 'Nhà giả kim'?",
+        "options": [
+            "A. Paulo Coelho",
+            "B. Gabriel Garcia Marquez",
+            "C. George Orwell",
+            "D. Haruki Murakami"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Năm 1066, trận chiến nào đã diễn ra ở Anh?",
+        "options": [
+            "A. Trận Stamford Bridge",
+            "B. Trận Hastings",
+            "C. Trận Waterloo",
+            "D. Trận Agincourt"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Quốc gia nào có nền kinh tế lớn nhất thế giới tính theo GDP?",
+        "options": [
+            "A. Trung Quốc",
+            "B. Hoa Kỳ",
+            "C. Nhật Bản",
+            "D. Đức"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Sóng âm không thể truyền qua môi trường nào?",
+        "options": [
+            "A. Chất rắn",
+            "B. Chất lỏng",
+            "C. Chân không",
+            "D. Chất khí"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nghệ sĩ nào đã vẽ bức tranh 'Đêm đầy sao'?",
+        "options": [
+            "A. Pablo Picasso",
+            "B. Vincent van Gogh",
+            "C. Claude Monet",
+            "D. Leonardo da Vinci"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà toán học đã chứng minh định lý cuối cùng của Fermat sau hơn 350 năm kể từ khi nó được đề xuất?",
+        "options": [
+            "A. Pierre de Fermat",
+            "B. Andrew Wiles",
+            "C. Carl Friedrich Gauss",
+            "D. Évariste Galois"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hằng số vật lý nào trong vũ trụ được xác định chính xác là 299.792.458 m/s?",
+        "options": [
+            "A. Gia tốc trọng trường",
+            "B. Tốc độ ánh sáng trong chân không",
+            "C. Tốc độ âm thanh trong không khí",
+            "D. Hằng số Planck"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tác phẩm nào của Shakespeare được cho là lấy cảm hứng từ câu chuyện về vua Leir của Anh thời tiền La Mã?",
+        "options": [
+            "A. Hamlet",
+            "B. Macbeth",
+            "C. King Lear",
+            "D. Othello"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nguyên tố hóa học nào có số hiệu nguyên tử là 118 và được đặt theo tên một nhà vật lý Nga?",
+        "options": [
+            "A. Oganesson",
+            "B. Rutherfordium",
+            "C. Seaborgium",
+            "D. Bohrium"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong lịch sử, ai là vị vua duy nhất của nước Anh bị xử tử công khai vào năm 1649?",
+        "options": [
+            "A. Henry VIII",
+            "B. Charles I",
+            "C. James II",
+            "D. Edward VI"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Định lý nào trong hình học Euclid chứng minh rằng tổng các góc trong một tam giác luôn bằng 180 độ?",
+        "options": [
+            "A. Định lý Pythagoras",
+            "B. Định lý cơ bản của tam giác",
+            "C. Tiên đề thứ năm",
+            "D. Mệnh đề 32"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Nhà vật lý nào đã phát triển lý thuyết về hiệu ứng ảnh điện, dẫn đến giải Nobel Vật lý năm 1921?",
+        "options": [
+            "A. Niels Bohr",
+            "B. Albert Einstein",
+            "C. Max Planck",
+            "D. Werner Heisenberg"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong tiểu thuyết 'Chiến tranh và Hòa bình' của Tolstoy, nhân vật nào được xem là biểu tượng cho sự đấu tranh nội tâm và triết lý sống?",
+        "options": [
+            "A. Natasha Rostova",
+            "B. Pierre Bezukhov",
+            "C. Andrei Bolkonsky",
+            "D. Helene Kuragina"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Loài sinh vật nào có khả năng tái tạo toàn bộ cơ thể từ một phần nhỏ của nó, thuộc ngành Platyhelminthes?",
+        "options": [
+            "A. Sán dây",
+            "B. Sán lá",
+            "C. Giun dẹp",
+            "D. Giun tròn"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Hiệp ước nào kết thúc Chiến tranh Ba Mươi Năm ở châu Âu vào năm 1648?",
+        "options": [
+            "A. Hiệp ước Westphalia",
+            "B. Hiệp ước Tordesillas",
+            "C. Hiệp ước Utrecht",
+            "D. Hiệp ước Versailles"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà triết học đã viết 'Phê phán lý tính thuần túy', đặt nền móng cho triết học hiện đại phương Tây?",
+        "options": [
+            "A. Immanuel Kant",
+            "B. Friedrich Nietzsche",
+            "C. Søren Kierkegaard",
+            "D. Georg Wilhelm Friedrich Hegel"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong âm nhạc cổ điển, ai là người sáng tác bản giao hưởng số 9 với phần hợp xướng 'Ode to Joy'?",
+        "options": [
+            "A. Wolfgang Amadeus Mozart",
+            "B. Ludwig van Beethoven",
+            "C. Franz Schubert",
+            "D. Johannes Brahms"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Phản ứng hóa học nào giữa kim loại kiềm và nước tạo ra khí hydro và một bazơ?",
+        "options": [
+            "A. Oxi hóa",
+            "B. Thủy phân",
+            "C. Phản ứng thế",
+            "D. Phản ứng cháy"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ai là nhà khoa học đã phát hiện ra nguyên lý nổi, được diễn đạt bằng câu 'Eureka!'?",
+        "options": [
+            "A. Archimedes",
+            "B. Galileo Galilei",
+            "C. Isaac Newton",
+            "D. Blaise Pascal"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong thần thoại Hy Lạp, ai là người đã giết chết quái vật Medusa bằng cách sử dụng một tấm gương?",
+        "options": [
+            "A. Hercules",
+            "B. Perseus",
+            "C. Theseus",
+            "D. Jason"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hàm số nào trong toán học có đạo hàm bậc hai luôn bằng 0?",
+        "options": [
+            "A. Hàm bậc ba",
+            "B. Hàm bậc nhất",
+            "C. Hàm bậc hai",
+            "D. Hàm logarit"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà văn Nhật Bản đã viết tiểu thuyết 'Rừng Na Uy', nổi tiếng với phong cách u hoài và cô đơn?",
+        "options": [
+            "A. Yasunari Kawabata",
+            "B. Haruki Murakami",
+            "C. Kenzaburo Oe",
+            "D. Yukio Mishima"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hành tinh nào trong hệ Mặt Trời có ngày dài hơn năm của nó?",
+        "options": [
+            "A. Sao Thủy",
+            "B. Sao Kim",
+            "C. Sao Hỏa",
+            "D. Sao Mộc"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong lịch sử nghệ thuật, trường phái nào được đặc trưng bởi sự trừu tượng hoàn toàn và sử dụng các hình khối cơ bản?",
+        "options": [
+            "A. Ấn tượng",
+            "B. Siêu thực",
+            "C. Lập thể",
+            "D. Tối giản"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Ai là nhà kinh tế học đã phát triển lý thuyết về 'bàn tay vô hình' trong thị trường tự do?",
+        "options": [
+            "A. John Maynard Keynes",
+            "B. Adam Smith",
+            "C. Karl Marx",
+            "D. Milton Friedman"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Phương trình nào trong vật lý liên kết năng lượng với khối lượng, được Einstein đề xuất?",
+        "options": [
+            "A. F = ma",
+            "B. E = mc²",
+            "C. PV = nRT",
+            "D. V = IR"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong sinh học, quá trình nào chuyển đổi DNA thành RNA trong nhân tế bào?",
+        "options": [
+            "A. Dịch mã",
+            "B. Sao mã",
+            "C. Phân bào",
+            "D. Tái tổ hợp"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là vị tướng đã lãnh đạo cuộc xâm lược Normandy trong Thế chiến II vào ngày 6 tháng 6 năm 1944?",
+        "options": [
+            "A. George S. Patton",
+            "B. Dwight D. Eisenhower",
+            "C. Bernard Montgomery",
+            "D. Omar Bradley"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong toán học, ai là người đã phát triển khái niệm về 'số ảo' với i² = -1?",
+        "options": [
+            "A. René Descartes",
+            "B. Leonhard Euler",
+            "C. Carl Friedrich Gauss",
+            "D. Rafael Bombelli"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Tác phẩm nào của Dostoevsky khám phá sâu sắc về tâm lý tội phạm và sự chuộc lỗi?",
+        "options": [
+            "A. Anh em nhà Karamazov",
+            "B. Tội ác và trừng phạt",
+            "C. Chàng ngốc",
+            "D. Những kẻ quỷ ám"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hiệp định nào chấm dứt Chiến tranh Độc lập Mỹ vào năm 1783?",
+        "options": [
+            "A. Hiệp định Paris",
+            "B. Hiệp định Ghent",
+            "C. Hiệp định Jay",
+            "D. Hiệp định Adams-Onís"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà vật lý đã đề xuất nguyên lý bất định, thay đổi cách hiểu về cơ học lượng tử?",
+        "options": [
+            "A. Erwin Schrödinger",
+            "B. Werner Heisenberg",
+            "C. Paul Dirac",
+            "D. Richard Feynman"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong thần thoại Bắc Âu, ai là thần lừa dối đã gây ra cái chết của thần Baldr?",
+        "options": [
+            "A. Thor",
+            "B. Loki",
+            "C. Odin",
+            "D. Freyr"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hàm số nào trong giải tích có giới hạn tại vô cực bằng 1 nhưng không bao giờ chạm đến?",
+        "options": [
+            "A. y = e^x",
+            "B. y = 1 - 1/x",
+            "C. y = sin(x)",
+            "D. y = ln(x)"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà soạn nhạc đã sáng tác opera 'The Ring of the Nibelung', kéo dài hơn 15 giờ biểu diễn?",
+        "options": [
+            "A. Giuseppe Verdi",
+            "B. Richard Wagner",
+            "C. Giacomo Puccini",
+            "D. Pyotr Ilyich Tchaikovsky"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong hóa học, chất nào có công thức C₆H₁₂O₆ và là nguồn năng lượng chính cho tế bào?",
+        "options": [
+            "A. Fructose",
+            "B. Glucose",
+            "C. Sucrose",
+            "D. Lactose"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà lãnh đạo đã thống nhất nước Đức vào năm 1871 dưới vai trò Thủ tướng Phổ?",
+        "options": [
+            "A. Otto von Bismarck",
+            "B. Wilhelm II",
+            "C. Frederick Đại đế",
+            "D. Konrad Adenauer"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong vật lý thiên văn, hiện tượng nào xảy ra khi một ngôi sao lớn sụp đổ và phát nổ, tạo ra nguyên tố nặng?",
+        "options": [
+            "A. Siêu tân tinh",
+            "B. Tân tinh",
+            "C. Lỗ đen",
+            "D. Sóng hấp dẫn"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà văn đã sáng tác 'Ulysses', một tác phẩm thử nghiệm tái hiện 'Odyssey' trong một ngày tại Dublin?",
+        "options": [
+            "A. James Joyce",
+            "B. Virginia Woolf",
+            "C. T.S. Eliot",
+            "D. Ernest Hemingway"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong lịch sử, triều đại nào của Trung Quốc đã xây dựng Vạn Lý Trường Thành lên quy mô lớn nhất?",
+        "options": [
+            "A. Nhà Tần",
+            "B. Nhà Hán",
+            "C. Nhà Minh",
+            "D. Nhà Đường"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ai là nhà vật lý đã phát triển lý thuyết về lực hấp dẫn phổ quát sau khi quan sát một quả táo rơi?",
+        "options": [
+            "A. Johannes Kepler",
+            "B. Isaac Newton",
+            "C. Albert Einstein",
+            "D. Galileo Galilei"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong toán học, dãy số nào được định nghĩa bằng tỷ lệ giữa hai số liên tiếp xấp xỉ bằng số vàng (1.618)?",
+        "options": [
+            "A. Dãy Fibonacci",
+            "B. Dãy số học",
+            "C. Dãy hình học",
+            "D. Dãy lũy thừa"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà triết học cổ đại đã viết 'Cộng hòa', mô tả một xã hội lý tưởng do các triết gia cai trị?",
+        "options": [
+            "A. Socrates",
+            "B. Plato",
+            "C. Aristotle",
+            "D. Epicurus"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong sinh học, cơ quan nào trong cơ thể người chứa khoảng 100 tỷ nơ-ron và điều khiển mọi hoạt động?",
+        "options": [
+            "A. Tim",
+            "B. Gan",
+            "C. Não bộ",
+            "D. Thận"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Ai là nhà lãnh đạo đã khởi xướng cuộc Cách mạng Văn hóa ở Trung Quốc vào năm 1966?",
+        "options": [
+            "A. Mao Trạch Đông",
+            "B. Chu Ân Lai",
+            "C. Đặng Tiểu Bình",
+            "D. Tưởng Giới Thạch"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong lý thuyết số, định lý nào chứng minh rằng mọi số nguyên dương lớn hơn 1 đều có thể phân tích duy nhất thành tích các số nguyên tố?",
+        "options": [
+            "A. Định lý cơ bản của số học",
+            "B. Định lý Fermat nhỏ",
+            "C. Định lý Euler",
+            "D. Định lý Gödel"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Hằng số vũ trụ nào, được ký hiệu là h, liên kết năng lượng của photon với tần số của nó trong cơ học lượng tử?",
+        "options": [
+            "A. Hằng số Boltzmann",
+            "B. Hằng số Planck",
+            "C. Hằng số Rydberg",
+            "D. Hằng số Avogadro"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Tác phẩm nào của Franz Kafka mô tả một người đàn ông thức dậy và thấy mình biến thành một con côn trùng khổng lồ?",
+        "options": [
+            "A. Vụ án",
+            "B. Lâu đài",
+            "C. Hóa thân",
+            "D. Mỹ châu"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nguyên tố hóa học nào, có số hiệu nguyên tử 96, được đặt theo tên nhà khoa học phát hiện ra phản ứng phân hạch?",
+        "options": [
+            "A. Curium",
+            "B. Einsteinium",
+            "C. Fermium",
+            "D. Nobelium"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong lịch sử, trận chiến nào vào năm 1815 đã chấm dứt hoàn toàn tham vọng bá chủ châu Âu của Napoleon Bonaparte?",
+        "options": [
+            "A. Trận Austerlitz",
+            "B. Trận Borodino",
+            "C. Trận Waterloo",
+            "D. Trận Leipzig"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Trong hình học phi Euclid, loại hình học nào giả định rằng không có đường thẳng song song nào đi qua một điểm ngoài đường thẳng cho trước?",
+        "options": [
+            "A. Hình học hyperbolic",
+            "B. Hình học elliptic",
+            "C. Hình học Descartes",
+            "D. Hình học dự chiếu"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà vật lý đã chứng minh rằng ánh sáng bị bẻ cong bởi trường hấp dẫn, xác nhận thuyết tương đối rộng của Einstein?",
+        "options": [
+            "A. Arthur Eddington",
+            "B. Edwin Hubble",
+            "C. Stephen Hawking",
+            "D. Karl Schwarzschild"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong 'Địa ngục' của Dante Alighieri, vòng tròn thứ mấy của địa ngục dành cho những kẻ phản bội như Judas Iscariot?",
+        "options": [
+            "A. Vòng 7",
+            "B. Vòng 8",
+            "C. Vòng 9",
+            "D. Vòng 6"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Loài động vật nào, thuộc lớp Cephalopoda, có khả năng thay đổi màu sắc dựa trên tín hiệu thần kinh phức tạp để ngụy trang?",
+        "options": [
+            "A. Bạch tuộc",
+            "B. Mực ống",
+            "C. Ốc sên biển",
+            "D. Sứa"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Cuộc cách mạng nào vào thế kỷ 17 ở Anh dẫn đến việc lật đổ chế độ quân chủ và thiết lập một nước cộng hòa dưới sự lãnh đạo của Oliver Cromwell?",
+        "options": [
+            "A. Cách mạng Vinh quang",
+            "B. Nội chiến Anh",
+            "C. Cách mạng Công nghiệp",
+            "D. Cách mạng Tư sản"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà triết học đã phát triển khái niệm 'siêu nhân' (Übermensch) trong tác phẩm 'Also sprach Zarathustra'?",
+        "options": [
+            "A. Søren Kierkegaard",
+            "B. Friedrich Nietzsche",
+            "C. Martin Heidegger",
+            "D. Jean-Paul Sartre"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong âm nhạc, ai là nhà soạn nhạc đã sáng tác bản oratorio 'Messiah', nổi tiếng với phần 'Hallelujah Chorus'?",
+        "options": [
+            "A. Johann Sebastian Bach",
+            "B. George Frideric Handel",
+            "C. Antonio Vivaldi",
+            "D. Claudio Monteverdi"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Phản ứng hóa học nào xảy ra trong lò phản ứng hạt nhân, biến uranium-235 thành các nguyên tố nhẹ hơn và giải phóng năng lượng?",
+        "options": [
+            "A. Phản ứng tổng hợp",
+            "B. Phản ứng phân hạch",
+            "C. Phản ứng oxi hóa",
+            "D. Phản ứng trung hòa"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà toán học cổ đại đã viết 'Các nguyên tố' (Elements), đặt nền móng cho hình học phương Tây?",
+        "options": [
+            "A. Pythagoras",
+            "B. Euclid",
+            "C. Archimedes",
+            "D. Apollonius"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong thần thoại Hy Lạp, ai là người đã giải được câu đố của Nhân sư, cứu thành Thebes?",
+        "options": [
+            "A. Oedipus",
+            "B. Hercules",
+            "C. Theseus",
+            "D. Perseus"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong lý thuyết xác suất, định lý nào phát biểu rằng trung bình của một mẫu lớn sẽ xấp xỉ giá trị kỳ vọng của phân phối?",
+        "options": [
+            "A. Định lý giới hạn trung tâm",
+            "B. Định lý số lớn",
+            "C. Định lý Bayes",
+            "D. Định lý Bernoulli"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà văn Pháp đã viết 'Tấn trò đời' (La Comédie Humaine), một bộ sưu tập hơn 90 tiểu thuyết về xã hội Pháp thế kỷ 19?",
+        "options": [
+            "A. Victor Hugo",
+            "B. Honoré de Balzac",
+            "C. Gustave Flaubert",
+            "D. Émile Zola"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thiên thể nào trong vũ trụ được cho là có mật độ vô hạn tại tâm, nơi không gian và thời gian bị bóp méo hoàn toàn?",
+        "options": [
+            "A. Sao neutron",
+            "B. Lỗ đen",
+            "C. Sao lùn trắng",
+            "D. Quasar"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong lịch sử nghệ thuật, ai là họa sĩ đã vẽ 'Guernica', một tác phẩm phản ánh sự tàn bạo của Nội chiến Tây Ban Nha?",
+        "options": [
+            "A. Salvador Dalí",
+            "B. Pablo Picasso",
+            "C. Joan Miró",
+            "D. Diego Velázquez"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà kinh tế học đã phát triển lý thuyết về 'sự hủy diệt sáng tạo' trong chủ nghĩa tư bản?",
+        "options": [
+            "A. Joseph Schumpeter",
+            "B. John Kenneth Galbraith",
+            "C. Ludwig von Mises",
+            "D. Friedrich Hayek"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong vật lý hạt, hạt nào được cho là truyền tải lực hấp dẫn trong lý thuyết lượng tử trường?",
+        "options": [
+            "A. Photon",
+            "B. Graviton",
+            "C. Gluon",
+            "D. Boson W"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong sinh học tiến hóa, khái niệm nào mô tả sự thay đổi tần số alen trong quần thể do ngẫu nhiên, đặc biệt ở quần thể nhỏ?",
+        "options": [
+            "A. Chọn lọc tự nhiên",
+            "B. Trôi gien",
+            "C. Đột biến",
+            "D. Di cư gien"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà lãnh đạo quân sự đã phát động cuộc Thập tự chinh thứ ba và được biết đến với cái tên 'Trái tim sư tử'?",
+        "options": [
+            "A. Richard I",
+            "B. Saladin",
+            "C. Frederick Barbarossa",
+            "D. Philip II"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong toán học, ai là người đã chứng minh bài toán bốn màu, rằng mọi bản đồ có thể được tô màu bằng tối đa bốn màu mà không có hai vùng kề nhau cùng màu?",
+        "options": [
+            "A. Kenneth Appel và Wolfgang Haken",
+            "B. Paul Erdős",
+            "C. John Conway",
+            "D. Benoit Mandelbrot"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Tác phẩm nào của Hermann Hesse khám phá hành trình tâm linh của một người đàn ông trong bối cảnh Phật giáo và Ấn Độ giáo?",
+        "options": [
+            "A. Con sói đồng cỏ",
+            "B. Siddhartha",
+            "C. Trò chơi hạt thủy tinh",
+            "D. Demian"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Hiệp định nào năm 1356 quy định việc bầu chọn Hoàng đế La Mã Thần thánh bởi bảy cử tri đoàn?",
+        "options": [
+            "A. Hiệp định Augsburg",
+            "B. Hiệp định Bò Vàng",
+            "C. Hiệp định Worms",
+            "D. Hiệp định Constance"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà vật lý đã phát triển khái niệm 'hố sâu' (wormhole) như một giải pháp của phương trình trường Einstein?",
+        "options": [
+            "A. John Wheeler",
+            "B. Kip Thorne",
+            "C. Roger Penrose",
+            "D. Hermann Weyl"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Trong thần thoại Ai Cập, ai là vị thần đầu chim ưng liên kết với mặt trời và quyền lực của pharaoh?",
+        "options": [
+            "A. Osiris",
+            "B. Horus",
+            "C. Anubis",
+            "D. Ra"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong giải tích, định lý nào phát biểu rằng một hàm liên tục trên một đoạn đóng sẽ đạt giá trị lớn nhất và nhỏ nhất?",
+        "options": [
+            "A. Định lý giá trị trung gian",
+            "B. Định lý giá trị cực đại",
+            "C. Định lý Rolle",
+            "D. Định lý Cauchy"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà soạn nhạc đã sáng tác 'Boléro', một tác phẩm nổi tiếng với giai điệu lặp đi lặp lại dần tăng cường độ?",
+        "options": [
+            "A. Igor Stravinsky",
+            "B. Maurice Ravel",
+            "C. Claude Debussy",
+            "D. Erik Satie"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong hóa học hữu cơ, hợp chất nào có vòng benzen với ba liên kết đôi xen kẽ và là nguyên liệu chính trong sản xuất nhựa?",
+        "options": [
+            "A. Toluene",
+            "B. Benzene",
+            "C. Phenol",
+            "D. Aniline"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà lãnh đạo đã khởi xướng chính sách 'Đại nhảy vọt' ở Trung Quốc, dẫn đến nạn đói lớn vào cuối thập niên 1950?",
+        "options": [
+            "A. Đặng Tiểu Bình",
+            "B. Mao Trạch Đông",
+            "C. Lưu Thiếu Kỳ",
+            "D. Giang Thanh"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong thiên văn học, hiện tượng nào xảy ra khi Mặt Trăng che khuất hoàn toàn Mặt Trời, tạo ra vành nhật hoa?",
+        "options": [
+            "A. Nhật thực toàn phần",
+            "B. Nhật thực một phần",
+            "C. Nguyệt thực",
+            "D. Giao hội"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà văn đã sáng tác 'Trăm năm cô đơn', một kiệt tác của chủ nghĩa hiện thực huyền ảo?",
+        "options": [
+            "A. Jorge Luis Borges",
+            "B. Gabriel García Márquez",
+            "C. Mario Vargas Llosa",
+            "D. Isabel Allende"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong lịch sử Trung Quốc, triều đại nào kéo dài ngắn nhất, chỉ 15 năm, trước khi bị nhà Minh lật đổ vào năm 1368?",
+        "options": [
+            "A. Nhà Nguyên",
+            "B. Nhà Tống",
+            "C. Nhà Kim",
+            "D. Nhà Liêu"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà vật lý đã phát triển lý thuyết về 'dây vũ trụ' (cosmic strings) như một phần của mô hình hình thành vũ trụ?",
+        "options": [
+            "A. Alan Guth",
+            "B. Andrei Linde",
+            "C. Neil Turok",
+            "D. Alexander Vilenkin"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Trong toán học, bài toán nào hỏi liệu mọi đường tròn kín đơn giản trên mặt phẳng có thể được biến đổi liên tục thành một điểm?",
+        "options": [
+            "A. Giả thuyết Poincaré",
+            "B. Giả thuyết Riemann",
+            "C. Bài toán Goldbach",
+            "D. Bài toán P vs NP"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Ai là nhà triết học đã viết 'Hiện tượng học của tinh thần', mô tả sự phát triển của ý thức qua các giai đoạn lịch sử?",
+        "options": [
+            "A. Edmund Husserl",
+            "B. Georg Wilhelm Friedrich Hegel",
+            "C. Martin Heidegger",
+            "D. Maurice Merleau-Ponty"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Trong sinh học, quá trình nào trong quang hợp sử dụng năng lượng ánh sáng để tạo ra ATP và NADPH?",
+        "options": [
+            "A. Chu trình Calvin",
+            "B. Phản ứng sáng",
+            "C. Phản ứng tối",
+            "D. Phân giải nước"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ai là nhà lãnh đạo đã ký Tuyên ngôn Độc lập Mỹ vào năm 1776 với tư cách chủ tịch Đại hội Lục địa?",
+        "options": [
+            "A. Thomas Jefferson",
+            "B. John Hancock",
+            "C. Benjamin Franklin",
+            "D. George Washington"
+        ],
+        "answer": "B"
+    }
+]
