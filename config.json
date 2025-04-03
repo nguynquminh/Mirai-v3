@@ -15,6 +15,7 @@
     "autoCreateDB": true,
     "allowInbox": true,
     "commandDisabled": [
+        "console.js",
         "console.js"
     ],
     "eventDisabled": [],
@@ -60,5 +61,12 @@
     },
     "test": {
         "TEST_API_KEY": ""
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10,
+        "pageSize": 10,
+        "showEmoji": true,
+        "useCuteEmoji": true
     }
 }
