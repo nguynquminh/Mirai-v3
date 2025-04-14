@@ -1,0 +1,83 @@
+{
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "updatePresence": true,
+        "listenTyping": true,
+        "logLevel": "error",
+        "selfListen": true,
+        "selfListenEvent": true,
+        "autoMarkDelivery": false,
+        "autoReconnect": true
+    },
+    "language": "en",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [
+        "console.js"
+    ],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "FACEBOOK_ADMIN": "100084924943916",
+    "BOTNAME": "Minh",
+    "PREFIX": "!",
+    "BOXADMIN": "9703990166318943",
+    "ADMINBOT": [
+        "100084924943916",
+        "61574149697929",
+        "61555201933254"
+    ],
+    "NDH": [
+        "100084924943916"
+    ],
+    "version": "3.0.0",
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 10000
+    },
+    "work": {
+        "cooldownTime": 60000
+    },
+    "admin": {
+        "maxAdmins": 20,
+        "adminBackup": true,
+        "allowBotSelfConfig": "",
+        "backupBeforeChange": true
+    },
+    "event": {
+        "autoUpdate": "",
+        "securityCheck": true
+    },
+    "log": {
+        "enable": true
+    },
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 10,
+        "pageSize": 10,
+        "showEmoji": true,
+        "useCuteEmoji": true
+    },
+    "test5": {
+        "apiUrl": "https://your-api-domain.com/api/badges",
+        "maxResults": 15
+    },
+    "aov": {
+        "API_BASE_URL": "http://localhost:3636/api"
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10,
+        "allowChangeNickname": []
+    }
+}

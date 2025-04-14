@@ -1,0 +1,5 @@
+package-lock.json
+cookie.txt
+utils/data/fbstate.json
+includes/data.sqlite
+*.txt
