@@ -4,7 +4,7 @@ module.exports.config = {
     name: "animeinfo",
     version: "1.2.0",
     hasPermssion: 0,
-    credits: "Bạn",
+    credits: "qm",
     description: "Tìm kiếm thông tin anime hoặc nhân vật từ Kitsu.io",
     commandCategory: "Thông tin",
     usages: "[anime|character] tên",
