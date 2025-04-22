@@ -15,7 +15,7 @@
     "autoCreateDB": true,
     "allowInbox": true,
     "commandDisabled": [
-        "console.js"
+        "callad.js"
     ],
     "eventDisabled": [],
     "EMAIL": "",
@@ -25,12 +25,7 @@
     "BOTNAME": "Minh",
     "PREFIX": "!",
     "BOXADMIN": "9703990166318943",
-    "ADMINBOT": [
-        "100084924943916",
-        "61574149697929",
-        "61555201933254",
-        "100057690159917"
-    ],
+    "ADMINBOT": [],
     "NDH": [
         "100084924943916"
     ],
@@ -68,12 +63,8 @@
         "showEmoji": true,
         "useCuteEmoji": true
     },
-    "test5": {
-        "apiUrl": "https://your-api-domain.com/api/badges",
-        "maxResults": 15
-    },
     "aov": {
-        "API_BASE_URL": "http://localhost:3636/api"
+        "API_BASE_URL": "https://aov-api.onrender.com/"
     },
     "adminUpdate": {
         "autoUnsend": true,
